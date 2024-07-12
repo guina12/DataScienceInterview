@@ -8,6 +8,8 @@ Monitoramento do Modelo:
 
 ![image](https://github.com/user-attachments/assets/309875dc-ccda-4a76-8f4c-4a057b3049c3)
 
+link do notebook do coolab:https://colab.research.google.com/drive/1la1JW4Dulu4iDntkbp45YBspx3eBaZIY?usp=sharing
+
 
 
 
